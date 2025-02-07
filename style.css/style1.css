@@ -1,0 +1,50 @@
+.title{
+    font-weight: bold
+;
+}
+.btn-sign{
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    border-color: #006A50;
+    background-color: white;
+
+}
+.btn-test{
+    color: #006A50;
+}
+.nav1{
+   display: flex;
+   gap: 200px;
+   
+}
+.section2{
+    padding-left: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 20px;
+    background-color: #C6E4D6;
+    display: flex;
+}
+.title2{
+    font-size: 40px;
+}
+.name{
+    font-size: 18px;
+    color: #525050;
+}
+.btn-explore{
+    background-color: #006A50;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.title3{
+    font-size: 30px;
+}
