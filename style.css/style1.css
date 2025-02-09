@@ -16,16 +16,19 @@
 }
 .nav1{
    display: flex;
+   justify-content: space-between;
    gap: 200px;
    
 }
 .section2{
+    margin-top: 20px;
     padding-left: 50px;
     padding-top: 100px;
     padding-bottom: 100px;
     border-radius: 20px;
     background-color: #C6E4D6;
     display: flex;
+    justify-content: space-between;
 }
 .title2{
     font-size: 40px;
@@ -47,4 +50,92 @@
 }
 .title3{
     font-size: 30px;
+}
+.card-1{
+    font-size: 20px;
+}
+.p-1{
+    color: #0e0e0e92;
+}
+.body1{
+    background-color: #F5F5F5;
+}
+.card-div{
+    padding-left: 24px;
+    padding-top: 25px;
+    background-color: white;
+    border-radius: 10px;
+}
+.div-cards{
+   display: flex;
+  
+   justify-content: space-around;
+  
+}
+.title-4{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.p-2{
+    color: #0E0E0E;
+}
+.card-div-2{
+    background-color: rgb(84, 144, 245,20%);
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.btn-card{
+    background-color: #5490F5;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.card-div-3{
+    background-color: #C6E4D6;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+}
+.card-div-4{
+    background-color: #F7EBCF;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.btn-card-1{
+    background-color: #09A15C;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.btn-card-2{
+    background-color: #FFC239;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.card-2{
+    margin-top: 30px;
 }
